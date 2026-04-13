@@ -1,5 +1,5 @@
 {
-    "name": "node-firebird",
+    "name": "node-firebird-sfd",
     "version": "2.0.4",
     "description": "Pure JavaScript and Asynchronous Firebird client for Node.js.",
     "keywords": [
@@ -14,8 +14,8 @@
         "url": "git+https://github.com/hgourvest/node-firebird.git"
     },
     "author": {
-        "name": "Henri Gourvest",
-        "email": "hgourvest@gmail.com"
+        "name": "Andy Elliott",
+        "email": "andy.elliott@sfd.support"
     },
     "contributors": [
         "Popa Marius Adrian <mapopa@gmail.com>",

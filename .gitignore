@@ -6,6 +6,6 @@ test/*.fbk
 .nyc_output
 .vscode
 coverage
-
+.npmrc 
 # Jetbrains IDE
 .idea
